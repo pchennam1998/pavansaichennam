@@ -1131,6 +1131,9 @@
 .fa.fa-newspaper-o:before {
   content: "\f1ea";
 }
+.fa-terminal:before {
+  content: "\f120";
+}
 .fa.fa-cc-amex,
 .fa.fa-cc-discover,
 .fa.fa-cc-mastercard,
@@ -1553,6 +1556,10 @@
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
 }
+.fa-envelope-bulk:before {
+  content: "\f674";
+}
+
 .fa.fa-envelope-open-o:before {
   content: "\f2b6";
 }

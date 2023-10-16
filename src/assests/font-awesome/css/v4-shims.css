@@ -1768,6 +1768,10 @@
   font-weight: 400;
 }
 
+.fa-terminal:before {
+  content: "\f120";
+}
+
 .fa.fa-cc-amex {
   font-family: "Font Awesome 5 Brands";
   font-weight: 400;
@@ -2552,6 +2556,10 @@
 .fa.fa-envelope-open-o {
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
+}
+
+.fa-envelope-bulk:before {
+  content: "\f674";
 }
 
 .fa.fa-envelope-open-o:before {

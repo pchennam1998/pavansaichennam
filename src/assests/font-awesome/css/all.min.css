@@ -817,6 +817,9 @@
 .fa-cc-discover:before {
   content: "\f1f2";
 }
+.fa-terminal:before {
+  content: "\f120";
+}
 .fa-cc-jcb:before {
   content: "\f24b";
 }
@@ -1423,6 +1426,11 @@
 .fa-envelope-open:before {
   content: "\f2b6";
 }
+
+.fa-envelope-bulk:before {
+  content: "\f674";
+}
+
 .fa-envelope-open-text:before {
   content: "\f658";
 }

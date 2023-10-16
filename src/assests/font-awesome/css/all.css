@@ -1689,6 +1689,10 @@ readers do not read off random characters that represent icons */
   content: "\f393";
 }
 
+.fa-terminal:before {
+  content: "\f120";
+}
+
 .fa-divide:before {
   content: "\f529";
 }
@@ -1867,6 +1871,10 @@ readers do not read off random characters that represent icons */
 
 .fa-envelope-open:before {
   content: "\f2b6";
+}
+
+.fa-envelope-bulk:before {
+  content: "\f674";
 }
 
 .fa-envelope-open-text:before {
